@@ -1,0 +1,9 @@
+
+flask
+flask-cors
+groq
+python-dotenv
+pypdf
+huggingface_hub
+pillow
+httpx
